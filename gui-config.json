@@ -1,0 +1,91 @@
+{
+  "configs": [
+    {
+      "server": "hk1-sta52.kug2y.pw",
+      "server_port": 22098,
+      "password": "tYhDg5sJ677beAx",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "香港 流量费率: 1.0",
+      "timeout": 5
+    },
+    {
+      "server": "jp1-sta52.kug2y.pw",
+      "server_port": 22098,
+      "password": "tYhDg5sJ677beAx",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "日本 流量费率: 1.5",
+      "timeout": 5
+    },
+    {
+      "server": "us1-sta52.kug2y.pw",
+      "server_port": 22098,
+      "password": "tYhDg5sJ677beAx",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "美国 流量费率: 0.2",
+      "timeout": 5
+    },
+    {
+      "server": "us2-sta52.kug2y.pw",
+      "server_port": 22098,
+      "password": "tYhDg5sJ677beAx",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "美国 流量费率: 0.4",
+      "timeout": 5
+    },
+    {
+      "server": "hk3-sta52.kug2y.pw",
+      "server_port": 22098,
+      "password": "tYhDg5sJ677beAx",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "香港 流量费率: 0.2",
+      "timeout": 5
+    }
+  ],
+  "strategy": null,
+  "index": 0,
+  "global": false,
+  "enabled": true,
+  "shareOverLan": false,
+  "isDefault": false,
+  "localPort": 1080,
+  "pacUrl": null,
+  "useOnlinePac": false,
+  "secureLocalPac": true,
+  "availabilityStatistics": false,
+  "autoCheckUpdate": false,
+  "checkPreRelease": false,
+  "isVerboseLogging": false,
+  "logViewer": {
+    "topMost": false,
+    "wrapText": false,
+    "toolbarShown": false,
+    "Font": "Consolas, 8pt",
+    "BackgroundColor": "Black",
+    "TextColor": "White"
+  },
+  "proxy": {
+    "useProxy": false,
+    "proxyType": 0,
+    "proxyServer": "",
+    "proxyPort": 0,
+    "proxyTimeout": 3
+  },
+  "hotkey": {
+    "SwitchSystemProxy": "",
+    "SwitchSystemProxyMode": "",
+    "SwitchAllowLan": "",
+    "ShowLogs": "",
+    "ServerMoveUp": "",
+    "ServerMoveDown": ""
+  }
+}
